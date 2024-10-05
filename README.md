@@ -51,11 +51,9 @@ ADRテンプレートについて、まだ記載のない提案やアイデア�
 
 ## Acknowledgements // 謝辞
 
-A huge thanks to everyone who helped make this project.
+A huge thanks to the repositories bellow and everyone who helped make this project.
 
-このプロジェクトに協力してくださったすべての方々に感謝いたします。
-
-Especially:
+以下のリポジトリと、このプロジェクトに協力してくださったすべての方々に感謝いたします。
 
 - [About MADR \| MADR](https://adr.github.io/madr/)
 - [peter\-evans/lightweight\-architecture\-decision\-records: Lightweight Architecture Decision Records](https://github.com/peter-evans/lightweight-architecture-decision-records)
