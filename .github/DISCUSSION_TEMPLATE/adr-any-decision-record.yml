@@ -71,13 +71,14 @@ body:
       value: TBD
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: decision-makers
     attributes:
       label: Decision Makers - 意思決定者
       description: 決定に関わる全員をメンションしてください。
       placeholder: "@user1 @user2 ..."
-      value: <!-- 決定に関わる全員をメンションしてください。 例： @user1 @user2 ... -->
+      value: |
+        <!-- 決定に関わる全員をメンションしてください。 例： @user1 @user2 ... -->
     validations:
       required: true
   - type: textarea
